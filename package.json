@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "three": "^0.164.1"
+  },
+  "name": "3dbackgroundanimation",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

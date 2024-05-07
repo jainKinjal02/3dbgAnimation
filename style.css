@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #111;
+    color: #fff;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    background-color: transparent;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+.description{
+    position: absolute;
+    top:85%;
+    left:70rem;
+    width: 100%;
+    height: 60%;
+    color: #fff;
+}
